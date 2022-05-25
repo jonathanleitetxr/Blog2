@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Hugo"
 theme = "hugo-theme-mini"
 paginate = 3
+publishDir = "docs"
