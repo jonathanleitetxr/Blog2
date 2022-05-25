@@ -1,6 +1,5 @@
-baseURL = "https://github.com/jonathanleitetxr/Blog2.git"
+baseURL = "https://jonathanleitetxr.github.io/"
 languageCode = "en-us"
 title = "Hugo"
 theme = "hugo-theme-mini"
 paginate = 3
-publishDir = "docs"
