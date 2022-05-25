@@ -1,4 +1,4 @@
-baseURL = "https://jonathanleitetxr.github.io/"
+baseURL = "https://github.com/jonathanleitetxr/Blog2.git"
 languageCode = "en-us"
 title = "Hugo"
 theme = "hugo-theme-mini"
